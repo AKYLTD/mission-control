@@ -33,7 +33,7 @@ export default function RootLayout({
               <nav className="flex items-center gap-4">
                 <a href="/" className="text-sm text-slate-300 hover:text-white transition">Dashboard</a>
                 <a href="/projects" className="text-sm text-slate-300 hover:text-white transition">Projects</a>
-                <a href="/scans" className="text-sm text-slate-300 hover:text-white transition">Scans</a>
+                <a href="/integrations" className="text-sm text-teal-400 hover:text-teal-300 transition">🔌 Integrations</a>
               </nav>
             </div>
           </header>
